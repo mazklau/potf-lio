@@ -104,7 +104,6 @@ span{
 .home-img img{
     width: 50vh;
     position: relative;
-    transform: translate(23%,-10px);
     border-radius: 200px;
     box-shadow: 3px 2px 0xp  black;
 }
