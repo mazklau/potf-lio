@@ -392,14 +392,28 @@ section.portfolio {
     .header{
         padding: 2rem 3%;
     }
+
     section{
-        padding: 10rem 3% 2rem;
+        padding: 7rem 3% 2rem;
     }
+
+    .services{
+        padding-bottom: 7rem;
+    }
+
+    .portfolio {
+        padding-bottom: 7rem;
+    }
+
+    .contact {
+        min-height: auto;
+    }
+
     .footer{
         padding: 2rem 3%;
     }
 }
-@media (max-width: 768px){
+@media (max-width: 798px){
 
     #menu-icon{
         display: block;
@@ -451,5 +465,33 @@ section.portfolio {
         width: 60vw;
         margin-top: 4rem;
     }
+    .services h2{
+        margin: 3rem;
+
+    }
+
+    .portfolio h2 {
+        margin-bottom: 3rem;
+    }
+
+    .portfolio{
+        grid-template-columns: repeat(2 1fr);
+    }
 }
 
+@media (max-width: 617px){
+    .portfolio-container{
+    
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 450px){
+    html{
+        font-size: 50%;
+    }
+
+    .contact form .input-box input{
+        width: 100%;
+    }
+}
