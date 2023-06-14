@@ -99,7 +99,7 @@ span{
 .home-img img{
     display: block;
     width: 60vw;
-    left: 3%;
+    left: -5%;
     top: -50%;    
 }
 .home-img img{
@@ -169,8 +169,8 @@ span{
     
 }
 .about-img img{
+    margin: auto;
     width: 50px;
-    padding-right: 0px;
 }
 .about-img img{
     width: 100%;
