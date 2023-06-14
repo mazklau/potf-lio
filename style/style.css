@@ -170,11 +170,7 @@ span{
     background: var(--second-bg-color);
 }
 .about-img img{
-    display: block;
-    width: 20px;
-    left: -20%;
-    top: -10%;
-    
+    width: 50px;
 }
 .about-img img{
     width: 100%;
