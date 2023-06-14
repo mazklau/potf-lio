@@ -98,12 +98,11 @@ span{
 }
 .home-img img{
     display: block;
-    width: 60vw;
-    left: 1%;
+    left: -1%;
     top: -50%;    
 }
 .home-img img{
-    width: 87.4%;
+    width: 86%;
     position: relative;
     border-radius: 100%;
     box-shadow: 3px 2px 0xp  black;
