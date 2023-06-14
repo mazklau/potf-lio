@@ -99,7 +99,7 @@ span{
 .home-img img{
     display: block;
     width: 50px;
-    left: -20%;
+    left: -10%;
     top: -10%;
     
     
@@ -170,6 +170,7 @@ span{
     background: var(--second-bg-color);
 }
 .about-img img{
+    margin: auto;
     width: 50px;
 }
 .about-img img{
