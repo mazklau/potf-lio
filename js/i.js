@@ -34,3 +34,14 @@ window.onscroll = () => {
 
 };
 
+
+
+ScrollReveal({
+    reset: true,
+    distance: '8px',
+    duration: 2000,
+    delay: 200 
+});
+
+ScrollReveal().reveal('.home-content, .heading', { origin: 'top' });
+ScrollReveal().reveal('.home-img, .services-conteinar, .portfolio-box, .contact from' { origin: 'bottom' });

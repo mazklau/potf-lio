@@ -26,8 +26,6 @@ html{
     margin: 0px;
 }
 body{
-    margin: 0px;
-    padding: 0px;
     background: var(--bg-color);
     color: var(--text-color);
 }
@@ -81,6 +79,7 @@ section {
     justify-content: center;
     align-items: center;
     padding: 2px;
+    
 }
 .home-content h3{
     font-size:  3.2rem;
@@ -398,6 +397,7 @@ section.portfolio {
         padding: 7rem 3% 2rem;
     }
 
+
     .services{
         padding-bottom: 7rem;
     }
@@ -494,5 +494,22 @@ section.portfolio {
 
     .contact form .input-box input{
         width: 100%;
+    }
+}
+
+@media (max-width: 365px){
+    .home-img img{
+        width: 90vw;
+    }
+    .about-img img{
+        width: 90vw;
+    }
+
+    .footer{
+        flex-direction: column-reverse;
+    }
+    .footer p{
+        text-align: center;
+        margin-top: 2rem;
     }
 }
