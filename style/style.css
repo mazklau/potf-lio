@@ -99,11 +99,11 @@ span{
 .home-img img{
     display: block;
     width: 60vw;
-    left: -10%;
+    left: 3%;
     top: -50%;    
 }
 .home-img img{
-    width: 86%;
+    width: 100%;
     position: relative;
     border-radius: 100%;
     box-shadow: 3px 2px 0xp  black;
