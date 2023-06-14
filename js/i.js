@@ -49,4 +49,4 @@ ScrollReveal().reveal('.home-img, .services-conteinar, .portfolio-box, .contact 
 
 ScrollReveal().reveal('.abaut-img, .about-content', { origin: 'bottom' });
 
-ScrollReveal().reveal('.abaut-img, .about-content, .services-box', { origin: 'bottom' });
+ScrollReveal().reveal('.about-img, .about-content, .services-box', { origin: 'bottom' });
