@@ -172,7 +172,7 @@ span{
     margin: auto;
     width: 50px;
 }
-.about-img img{
+.about-img, img{
     width: 100%;
     position: relative;
     border-radius: 200px;
