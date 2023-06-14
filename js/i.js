@@ -45,4 +45,8 @@ ScrollReveal({
 
 ScrollReveal().reveal('.home-content, .heading', { origin: 'top' });
 
-ScrollReveal().reveal('.home-img, .about-img, .services-conteinar, .portfolio-box, .contact from', { origin: 'bottom' });
+ScrollReveal().reveal('.home-img, .services-conteinar, .portfolio-box, .contact from', { origin: 'bottom' });
+
+ScrollReveal().reveal('.abaut-img, .about-content', { origin: 'bottom' });
+
+ScrollReveal().reveal('.abaut-img, .about-content, .services-box', { origin: 'bottom' });
