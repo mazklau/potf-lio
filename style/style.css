@@ -98,7 +98,8 @@ span{
 }
 .home-img img{
     display: block;
-    left: -1%;
+    width: 60vw;
+    left: -2%;
     top: -50%;    
 }
 .home-img img{
