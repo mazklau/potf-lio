@@ -527,8 +527,7 @@ section.portfolio {
     .home-img img{
         display: block;
         width: 60vw;
-        left: -26%;
-        top: -50%;    
+        margin: auto;   
     }
     .about-img img{
         width: 90vw;
