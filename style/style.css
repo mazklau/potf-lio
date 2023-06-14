@@ -78,7 +78,7 @@ section {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 2px;
+    padding-top: 90px;
     
 }
 .home-content h3{
@@ -97,13 +97,15 @@ span{
     line-height: 1.3;
 }
 .home-img img{
-    width: 100%;
+    width: 50px;
+    margin: 0px;
     
 }
 .home-img img{
     width: 50vh;
+    margin: auto;
     position: relative;
-    border-radius: 200px;
+    border-radius: 100%;
     box-shadow: 3px 2px 0xp  black;
 }
 
