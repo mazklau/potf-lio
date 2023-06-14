@@ -526,7 +526,7 @@ section.portfolio {
 @media (max-width: 365px){
     .home-img img{
         display: block;
-        width: 60vw;
+        width: 80vw;
         margin: auto;   
     }
     .about-img img{
