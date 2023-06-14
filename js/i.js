@@ -44,4 +44,5 @@ ScrollReveal({
 });
 
 ScrollReveal().reveal('.home-content, .heading', { origin: 'top' });
-ScrollReveal().reveal('.home-img, .services-conteinar, .portfolio-box, .contact from' { origin: 'bottom' });
+
+ScrollReveal().reveal('.home-img, .services-conteinar, .portfolio-box, .contact from', { origin: 'bottom' });
