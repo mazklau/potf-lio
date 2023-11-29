@@ -135,7 +135,7 @@ section {
 .about-img img{
     width: 100%;
     position: relative;
-    border-radius: 200px;
+    border-radius: 50%;
     box-shadow: 3px 2px 0xp  black;
 }
 
